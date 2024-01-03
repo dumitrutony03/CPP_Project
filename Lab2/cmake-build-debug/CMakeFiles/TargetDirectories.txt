@@ -1,0 +1,3 @@
+C:/Users/tonyc/Downloads/Anul 1/SD/LAB/Lab3/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir
+C:/Users/tonyc/Downloads/Anul 1/SD/LAB/Lab3/Lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tonyc/Downloads/Anul 1/SD/LAB/Lab3/Lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
